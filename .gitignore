@@ -22,3 +22,47 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+
+.idea
+
+# CVS
+CVS
+
+# SCCS
+SCCS
+
+# Subversion
+.svn
+
+# Visual SourceSafe
+vss
+
+target
+
+# Intellij
+.idea
+
+# Mac
+.DS_Store
+
+# Linux
+.local
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Eclipse
+.metadata
+.classpath
+.project
+.settings
+.factorypath
+
+# NetBeans
+nbproject/private/
+nbproject/project.xml
+nbproject/project.properties
+nbproject/build-impl.xml
